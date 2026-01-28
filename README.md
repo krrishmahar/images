@@ -78,10 +78,10 @@ This repository is licensed under the [Apache License 2.0](LICENSE).
 - ✅ **Modification**: Edit, transform, and build upon the images
 - ✅ **Distribution**: Share and redistribute the images
 - ✅ **Private Use**: Use images in private projects
-- ⚠️ **License Notice**: When redistributing, include a copy of the license and retain copyright notices
-- ⚠️ **State Changes**: Document any modifications made to the images
+- ⚠️ **License & Copyright Notices**: When redistributing, include a copy of the license and retain any copyright notices
+- ⚠️ **Indicate Modifications**: Clearly state any changes made to the original images
 
-**Note**: The Apache 2.0 license requires attribution notices to be retained when redistributing derivative works. For personal use (e.g., displaying an image on a website), attribution is appreciated but not mandatory.
+**Note**: When redistributing images or modified versions, you must include the Apache 2.0 license file and maintain any existing copyright notices. For casual personal use (such as using an image on your website without redistributing the files themselves), these requirements are more relaxed. Attribution is always appreciated and helps support this project!
 
 ## 🤝 Contributing
 
