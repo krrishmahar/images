@@ -3,7 +3,7 @@
 A curated collection of high-quality, free-to-use images for everyone. Whether you're a developer, designer, content creator, or just looking for beautiful imagery, this repository is here to help!
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](#-contributing)
 
 ## 🌟 About
 
@@ -15,7 +15,7 @@ This repository serves as a central hub for high-resolution, professionally cura
 - **Free to Use**: Licensed under Apache 2.0 - use them freely in personal and commercial projects
 - **Diverse Collection**: Wide variety of categories and subjects
 - **Easy Access**: Simple structure for quick browsing and downloading
-- **No Attribution Required**: While appreciated, attribution is not mandatory (as per Apache 2.0)
+- **Liberal License**: Apache 2.0 allows commercial use, modification, and distribution
 - **Regularly Updated**: New images added frequently
 
 ## 📂 Image Categories
@@ -78,10 +78,10 @@ This repository is licensed under the [Apache License 2.0](LICENSE).
 - ✅ **Modification**: Edit, transform, and build upon the images
 - ✅ **Distribution**: Share and redistribute the images
 - ✅ **Private Use**: Use images in private projects
-- ⚠️ **License Notice**: Include a copy of the license when distributing
+- ⚠️ **License Notice**: When redistributing, include a copy of the license and retain copyright notices
 - ⚠️ **State Changes**: Document any modifications made to the images
 
-**Attribution**: While not required by the license, attribution is always appreciated and helps support this project!
+**Note**: The Apache 2.0 license requires attribution notices to be retained when redistributing derivative works. For personal use (e.g., displaying an image on a website), attribution is appreciated but not mandatory.
 
 ## 🤝 Contributing
 
@@ -98,8 +98,6 @@ We welcome contributions! If you have high-quality images you'd like to share:
    - Accepted formats: JPG, PNG, WebP
    - Maximum file size: 10MB per image
    - Must be legally shareable under Apache 2.0 license
-
-For detailed contribution guidelines, please see [CONTRIBUTING.md](CONTRIBUTING.md) (coming soon).
 
 ## 📋 Guidelines for Image Submission
 
